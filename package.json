@@ -1,0 +1,15 @@
+{
+  "name": "api-recrutamento-bot",
+  "version": "1.0.0",
+  "description": "API para gerar certificados de recrutamento",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
